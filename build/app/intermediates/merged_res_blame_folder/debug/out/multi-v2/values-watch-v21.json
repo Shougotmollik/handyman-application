@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/shell/.gradle/caches/transforms-3/3b5bb4ea2f78a2413b6b5c05fa8df23b/transformed/appcompat-1.0.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

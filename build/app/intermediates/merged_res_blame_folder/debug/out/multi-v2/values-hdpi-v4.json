@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/shell/.gradle/caches/transforms-3/3b5bb4ea2f78a2413b6b5c05fa8df23b/transformed/appcompat-1.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

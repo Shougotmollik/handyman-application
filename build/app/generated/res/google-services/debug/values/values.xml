@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">438524885554-57q5kelj6uhtjnbebkb8o82mbb3262gt.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">438524885554</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrdD0fJnvDQjp02Ong4C2LxFlZV8mrCU4</string>
+    <string name="google_app_id" translatable="false">1:438524885554:android:a1c5ee7ab5603eab4f9a2b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrdD0fJnvDQjp02Ong4C2LxFlZV8mrCU4</string>
+    <string name="google_storage_bucket" translatable="false">bookingsystem-3be5c.appspot.com</string>
+    <string name="project_id" translatable="false">bookingsystem-3be5c</string>
+</resources>
