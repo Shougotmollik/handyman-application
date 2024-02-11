@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/0aff3f5612e5db5ab86996981df64f98/transformed/core-1.10.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_template_part_time.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/0aff3f5612e5db5ab86996981df64f98/transformed/core-1.10.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/url_launcher_android/intermediates/merged_res/debug/layout/browser_actions_context_menu_page.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/3b52387a4e10ac0d0848e11a8ae0c3a4/transformed/browser-1.5.0/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/0aff3f5612e5db5ab86996981df64f98/transformed/core-1.10.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/0aff3f5612e5db5ab86996981df64f98/transformed/core-1.10.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/url_launcher_android/intermediates/merged_res/debug/layout/notification_action.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/0aff3f5612e5db5ab86996981df64f98/transformed/core-1.10.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/url_launcher_android/intermediates/merged_res/debug/layout/custom_dialog.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/0aff3f5612e5db5ab86996981df64f98/transformed/core-1.10.1/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/url_launcher_android/intermediates/merged_res/debug/layout/browser_actions_context_menu_row.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/3b52387a4e10ac0d0848e11a8ae0c3a4/transformed/browser-1.5.0/res/layout/browser_actions_context_menu_row.xml"
+    }
+]

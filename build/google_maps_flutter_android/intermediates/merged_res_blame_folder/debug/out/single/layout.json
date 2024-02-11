@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/google_maps_flutter_android/intermediates/merged_res/debug/layout/custom_dialog.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/47341cc3b715c58d61bfd7e960ab4ddb/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/google_maps_flutter_android/intermediates/merged_res/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/47341cc3b715c58d61bfd7e960ab4ddb/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/google_maps_flutter_android/intermediates/merged_res/debug/layout/notification_template_part_time.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/47341cc3b715c58d61bfd7e960ab4ddb/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/google_maps_flutter_android/intermediates/merged_res/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/47341cc3b715c58d61bfd7e960ab4ddb/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/google_maps_flutter_android/intermediates/merged_res/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/47341cc3b715c58d61bfd7e960ab4ddb/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/shell/MySpace/Code/palash sir/handyman_admin_flutter_app/build/google_maps_flutter_android/intermediates/merged_res/debug/layout/notification_action.xml",
+        "source": "/home/shell/.gradle/caches/transforms-3/47341cc3b715c58d61bfd7e960ab4ddb/transformed/core-1.6.0/res/layout/notification_action.xml"
+    }
+]
